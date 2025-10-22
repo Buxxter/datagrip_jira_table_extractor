@@ -2,7 +2,7 @@ Data Extractor for easy copy/paste query result to Jira Task
 
 # Setup
 The easiest way to add it to Datagrip:
-- select something form your datasorce to show results pannel
+- select something form your datasource to show results pannel
 - select data extractors menu at the top right corner of this pannel
 - select "Go to Scripts Directory"
 - drag'n'drop Jira-Groovy.md.groovy into extraxtors directory
