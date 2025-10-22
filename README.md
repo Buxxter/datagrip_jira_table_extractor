@@ -1,0 +1,1 @@
+# datagrip_jira_table_exporter
